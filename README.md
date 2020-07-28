@@ -232,7 +232,7 @@ $ systemctl restart crond
 ```bash
 $ cd /data/wwwroot/freenom/ && php run
 ```
-不出意外的话，你将收到一封关于域名情况的邮件。
+不出意外的话，你将收到一封关于域名情况的邮件。.
 
 <hr>
 
